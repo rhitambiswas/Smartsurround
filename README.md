@@ -6,7 +6,7 @@ Software Engineering Laboratory — Team ABISKAR
 
 > Intelligent Monitoring · Detection · Prediction · Safety
 
-Live site: `https://YOUR-USERNAME.github.io/Smartsurround/`
+Live site: `https://rhitambiswas.github.io/Smartsurround/`
 
 ---
 
