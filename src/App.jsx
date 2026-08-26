@@ -1572,7 +1572,7 @@ function PdfViewerModal({ onClose }) {
 
         <div className="pdf-panel-body">
           <iframe
-            src="/SmartSurround.pdf"
+            src={`${import.meta.env.BASE_URL}SmartSurround.pdf`}
             title="Team ABISKAR PPT"
           ></iframe>
         </div>
